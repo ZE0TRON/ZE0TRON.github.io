@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>/404.html</loc>
+            <loc>http://ze0tron.com/404.html</loc>
         </url>
     
         <url>
-            <loc>/about/</loc>
+            <loc>http://ze0tron.com/about/</loc>
         </url>
     
         <url>
-            <loc>/category/backend/</loc>
+            <loc>http://ze0tron.com/category/backend/</loc>
         </url>
     
         <url>
-            <loc>/contact/</loc>
+            <loc>http://ze0tron.com/contact/</loc>
         </url>
     
         <url>
-            <loc>/feed.xml</loc>
+            <loc>http://ze0tron.com/feed.xml</loc>
         </url>
     
         <url>
-            <loc>/category/frontend/</loc>
+            <loc>http://ze0tron.com/category/frontend/</loc>
         </url>
     
         <url>
-            <loc>/</loc>
+            <loc>http://ze0tron.com/</loc>
         </url>
     
         <url>
-            <loc>/category/life/</loc>
+            <loc>http://ze0tron.com/category/life/</loc>
         </url>
     
         <url>
-            <loc>/category/mobile/</loc>
+            <loc>http://ze0tron.com/category/mobile/</loc>
         </url>
     
         <url>
-            <loc>/contact/message-sent/</loc>
+            <loc>http://ze0tron.com/contact/message-sent/</loc>
         </url>
     
         <url>
-            <loc>/search.json</loc>
+            <loc>http://ze0tron.com/search.json</loc>
         </url>
     
         <url>
-            <loc>/category/security/</loc>
+            <loc>http://ze0tron.com/category/security/</loc>
         </url>
     
         <url>
-            <loc>/sitemap.xml</loc>
+            <loc>http://ze0tron.com/sitemap.xml</loc>
         </url>
     
         <url>
-            <loc>/tags/index.html</loc>
+            <loc>http://ze0tron.com/tags/index.html</loc>
         </url>
     
         <url>
-            <loc>/category/tutorial/</loc>
+            <loc>http://ze0tron.com/category/tutorial/</loc>
         </url>
     
         <url>
-            <loc>/category/webdev/</loc>
+            <loc>http://ze0tron.com/category/webdev/</loc>
         </url>
     
     
         <url>
-            <loc>/Google-as-a-Weapon/</loc>
+            <loc>http://ze0tron.com/Google-as-a-Weapon/</loc>
         </url>
   
         <url>
-            <loc>/Privilege-Escalation-With-Meterpreter/</loc>
+            <loc>http://ze0tron.com/Privilege-Escalation-With-Meterpreter/</loc>
         </url>
   
         <url>
-            <loc>/Beginners's-Guide-to-SQL-Injection,-Sqlmap-+-Owas-zap/</loc>
+            <loc>http://ze0tron.com/Beginners's-Guide-to-SQL-Injection,-Sqlmap-+-Owas-zap/</loc>
         </url>
   
         <url>
-            <loc>/A-Better-Way-to-Write-HTML,-PugJS/</loc>
+            <loc>http://ze0tron.com/A-Better-Way-to-Write-HTML,-PugJS/</loc>
         </url>
   
         <url>
-            <loc>/Routing-With-NodeJs-(Express)/</loc>
+            <loc>http://ze0tron.com/Routing-With-NodeJs-(Express)/</loc>
         </url>
   
 </urlset>
