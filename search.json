@@ -1,0 +1,43 @@
+[
+  
+    {
+      "title"    : "Google as a Weapon (Advanced searching with operators)",
+      "tags"     : "google, search, seo, search-operators, and information-gathering",
+      "categories" : "security",
+      "url"      : "/Google-as-a-Weapon/",
+      "date"     : "10/15/2018"
+    } ,
+  
+    {
+      "title"    : "Privilege Escalation With Meterpreter",
+      "tags"     : "privilege-escalation, meterpreter, metasploit, and post-exploit",
+      "categories" : "security",
+      "url"      : "/Privilege-Escalation-With-Meterpreter/",
+      "date"     : "09/19/2018"
+    } ,
+  
+    {
+      "title"    : "Beginner’s Guide to SQL Injection, Sqlmap + Owasp-zap",
+      "tags"     : "SqlInjection, Owasp-zap, and Sqlmap",
+      "categories" : "security",
+      "url"      : "/Beginners's-Guide-to-SQL-Injection,-Sqlmap-+-Owas-zap/",
+      "date"     : "09/02/2018"
+    } ,
+  
+    {
+      "title"    : "A Better Way to Write HTML, PugJS",
+      "tags"     : "pugJS, frontend, html, and jade",
+      "categories" : "frontend",
+      "url"      : "/A-Better-Way-to-Write-HTML,-PugJS/",
+      "date"     : "09/02/2018"
+    } ,
+  
+    {
+      "title"    : "Routing with NodeJS (Express)",
+      "tags"     : "nodeJs, routing, express, and backend",
+      "categories" : "backend",
+      "url"      : "/Routing-With-NodeJs-(Express)/",
+      "date"     : "08/25/2018"
+    } 
+  
+]

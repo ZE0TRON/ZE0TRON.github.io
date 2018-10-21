@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>/404.html</loc>
+        </url>
+    
+        <url>
+            <loc>/about/</loc>
+        </url>
+    
+        <url>
+            <loc>/category/backend/</loc>
+        </url>
+    
+        <url>
+            <loc>/contact/</loc>
+        </url>
+    
+        <url>
+            <loc>/feed.xml</loc>
+        </url>
+    
+        <url>
+            <loc>/category/frontend/</loc>
+        </url>
+    
+        <url>
+            <loc>/</loc>
+        </url>
+    
+        <url>
+            <loc>/category/life/</loc>
+        </url>
+    
+        <url>
+            <loc>/category/mobile/</loc>
+        </url>
+    
+        <url>
+            <loc>/contact/message-sent/</loc>
+        </url>
+    
+        <url>
+            <loc>/search.json</loc>
+        </url>
+    
+        <url>
+            <loc>/category/security/</loc>
+        </url>
+    
+        <url>
+            <loc>/sitemap.xml</loc>
+        </url>
+    
+        <url>
+            <loc>/tags/index.html</loc>
+        </url>
+    
+        <url>
+            <loc>/category/tutorial/</loc>
+        </url>
+    
+        <url>
+            <loc>/category/webdev/</loc>
+        </url>
+    
+    
+        <url>
+            <loc>/Google-as-a-Weapon/</loc>
+        </url>
+  
+        <url>
+            <loc>/Privilege-Escalation-With-Meterpreter/</loc>
+        </url>
+  
+        <url>
+            <loc>/Beginners's-Guide-to-SQL-Injection,-Sqlmap-+-Owas-zap/</loc>
+        </url>
+  
+        <url>
+            <loc>/A-Better-Way-to-Write-HTML,-PugJS/</loc>
+        </url>
+  
+        <url>
+            <loc>/Routing-With-NodeJs-(Express)/</loc>
+        </url>
+  
+</urlset>

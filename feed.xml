@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZE0TRON | A blog for curious people</title>
+    <description>Some text about your blog.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 21 Oct 2018 16:53:11 +0300</pubDate>
+    <lastBuildDate>Sun, 21 Oct 2018 16:53:11 +0300</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Google as a Weapon (Advanced searching with operators)</title>
+        <description>&lt;h1 id=&quot;google-as-a-weapon-advanced-searching-with-operators&quot;&gt;Google as a Weapon (Advanced searching with operators)&lt;/h1&gt; &lt;h2 id=&quot;searching-with-operators&quot;&gt;Searching with operators&lt;/h2&gt; &lt;p&gt;We use google everyday but only a small percentage of us knows the google search operators. They may look not that powerful or ordinary at first but when you combine them in a good way, it can do amazing things. The most common one is site operator.&lt;/p&gt; &lt;h3 id=&quot;site&quot;&gt;Site:&lt;/h3&gt; &lt;p&gt;Have you ever wanted to search something on a specific web page well the site parameters exactly does that. Ex : site:instagram.com burak you search all the indexed pages in the instagram.com and you look for the ones...</description>
+        <pubDate>Mon, 15 Oct 2018 00:00:00 +0300</pubDate>
+        <link>/Google-as-a-Weapon/</link>
+        <guid isPermaLink="true">/Google-as-a-Weapon/</guid>
+        
+        <category>google</category>
+        
+        <category>search</category>
+        
+        <category>seo</category>
+        
+        <category>search-operators</category>
+        
+        <category>information-gathering</category>
+        
+        
+        <category>security</category>
+        
+      </item>
+    
+      <item>
+        <title>Privilege Escalation With Meterpreter</title>
+        <description>&lt;h1 id=&quot;privilege-escalation-with-meterpreter&quot;&gt;Privilege Escalation With Meterpreter&lt;/h1&gt; &lt;h2 id=&quot;what-is-privilege-escalation-&quot;&gt;What is Privilege Escalation ?&lt;/h2&gt; &lt;p&gt;Dropping a shell to a system is usually the easiest part, the hard part is gaining the administrator/root level access. Privilege escalation is the process to gain that kind of access from a low level access.&lt;/p&gt; &lt;h2 id=&quot;what-is-meterpreter-&quot;&gt;What is Meterpreter ?&lt;/h2&gt; &lt;p&gt;Meterpreter is a payload from metasploit framework with lots of abilities.&lt;/p&gt; &lt;h3 id=&quot;using-meterpreter-as-a-payload&quot;&gt;Using meterpreter as a payload&lt;/h3&gt; &lt;p&gt;Lets say you find a exploit on the system with metasploit framework. After setting the values at options. Lets set payload with&lt;/p&gt; &lt;p&gt;set payload windows/meterpreter/reverse_tcp&lt;/p&gt; &lt;p&gt;the first parameter depends on the...</description>
+        <pubDate>Wed, 19 Sep 2018 00:00:00 +0300</pubDate>
+        <link>/Privilege-Escalation-With-Meterpreter/</link>
+        <guid isPermaLink="true">/Privilege-Escalation-With-Meterpreter/</guid>
+        
+        <category>privilege-escalation</category>
+        
+        <category>meterpreter</category>
+        
+        <category>metasploit</category>
+        
+        <category>post-exploit</category>
+        
+        
+        <category>security</category>
+        
+      </item>
+    
+      <item>
+        <title>Beginner’s Guide to SQL Injection, Sqlmap + Owasp-zap</title>
+        <description>&lt;h1 id=&quot;beginners-guide-to-sql-injection-sqlmap--owasp-zap&quot;&gt;Beginner’s Guide to SQL Injection, Sqlmap + Owasp-zap&lt;/h1&gt; &lt;h2 id=&quot;what-is-sql-injection-&quot;&gt;What is SQL Injection ?&lt;/h2&gt; &lt;p&gt;If you have no idea about what is SQL Injection it is basically, a very popular method which allows us to run queries on the target db. Things we can accomplished with SQL Injection is numerous, for more info visit Owasp doc from &lt;a href=&quot;https://www.owasp.org/index.php/SQL_Injection&quot;&gt;here&lt;/a&gt;.&lt;/p&gt; &lt;h2 id=&quot;what-is-owasp-zap-and-how-to-search-for-sql-injection-vulnerabilities-&quot;&gt;What is Owasp-zap and How to Search for SQL Injection Vulnerabilities ?&lt;/h2&gt; &lt;p&gt;Owasp-zap is a powerful tool for searching web app vulns. It has simple yet powerful UI for beginners. It’s usually bundled with Pentest OSes like Kali Linux...</description>
+        <pubDate>Sun, 02 Sep 2018 00:00:00 +0300</pubDate>
+        <link>/Beginners's-Guide-to-SQL-Injection,-Sqlmap-+-Owas-zap/</link>
+        <guid isPermaLink="true">/Beginners's-Guide-to-SQL-Injection,-Sqlmap-+-Owas-zap/</guid>
+        
+        <category>SqlInjection</category>
+        
+        <category>Owasp-zap</category>
+        
+        <category>Sqlmap</category>
+        
+        
+        <category>security</category>
+        
+      </item>
+    
+      <item>
+        <title>A Better Way to Write HTML, PugJS</title>
+        <description>&lt;h1 id=&quot;a-better-way-to-write-html-pugjs&quot;&gt;A Better Way to Write HTML, PugJS&lt;/h1&gt; &lt;p&gt;Pug is a node library that enables us to render html files from pug syntaxed files. To install pug npm install pug .&lt;/p&gt; &lt;p&gt;There are three features that makes the pug best rendering library for me.&lt;/p&gt; &lt;h3 id=&quot;easy-and-short-syntax&quot;&gt;Easy and Short Syntax&lt;/h3&gt; &lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;lorem.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;lorem.css&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;h1Class&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;h1Title&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Some Title&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class =&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;row&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class...</description>
+        <pubDate>Sun, 02 Sep 2018 00:00:00 +0300</pubDate>
+        <link>/A-Better-Way-to-Write-HTML,-PugJS/</link>
+        <guid isPermaLink="true">/A-Better-Way-to-Write-HTML,-PugJS/</guid>
+        
+        <category>pugJS</category>
+        
+        <category>frontend</category>
+        
+        <category>html</category>
+        
+        <category>jade</category>
+        
+        
+        <category>frontend</category>
+        
+      </item>
+    
+      <item>
+        <title>Routing with NodeJS (Express)</title>
+        <description>&lt;h1 id=&quot;routing-with-nodejs-express&quot;&gt;Routing with NodeJS (Express)&lt;/h1&gt; &lt;h3 id=&quot;what-is-routing-&quot;&gt;What is Routing ?&lt;/h3&gt; &lt;p&gt;Routing is basically matches the functions you wrote with the requests that server gets. For get requests rendering the correct page and For post requests handling the post with correct function.&lt;/p&gt; &lt;h3 id=&quot;how-to-route-&quot;&gt;How to route ?&lt;/h3&gt; &lt;p&gt;I am not going to show you the easiest way instead I will show you one of the bests practise. Lets start with our server/app.js file&lt;/p&gt; &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;routes&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'./api/routes'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;use&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;/&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;routes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt; &lt;p&gt;Add...</description>
+        <pubDate>Sat, 25 Aug 2018 00:00:00 +0300</pubDate>
+        <link>/Routing-With-NodeJs-(Express)/</link>
+        <guid isPermaLink="true">/Routing-With-NodeJs-(Express)/</guid>
+        
+        <category>nodeJs</category>
+        
+        <category>routing</category>
+        
+        <category>express</category>
+        
+        <category>backend</category>
+        
+        
+        <category>backend</category>
+        
+      </item>
+    
+  </channel>
+</rss>
